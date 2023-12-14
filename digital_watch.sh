@@ -27,6 +27,8 @@ do
         sleep 1s 
 done
 
+#press ctrl + C to stop the watch...
+
 
 
 
