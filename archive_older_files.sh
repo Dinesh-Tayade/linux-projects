@@ -32,7 +32,7 @@ fi
 
 #finding the list of files older than 10 days..
 
-for i in `find $Path2 -type f -mtime 4 `
+for i in `find $Path2 -type f -mtime $days
 do 
 	if [[ $run -eq 0 ]]
 	then 
