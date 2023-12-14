@@ -14,6 +14,8 @@ To archive older files, run the following command:
 bash archive_older_files.sh or 
 ./archive_older_files.sh 
 
+you can automate this script using " crontab -e " command according your convenient date and time.
+
 ## Project 2: Basic Calculator
 
 A simple shell script that performs basic arithmetic calculations .
@@ -44,3 +46,5 @@ Run the following command to check free RAM space:
 
 bash free_ram_space.sh or
 ./free_ram_space.sh
+
+you can automate this script using " crontab -e " command according your convenient date and time.
